@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b99a1ae6-d73f-451d-e987-c72883f0fefd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computer Algorithms in Systems Engineering",
+  "course_description": "This course covers concepts of computation used in analysis of engineering systems. It includes the following topics: data structures, relational database representations of engineering data, algorithms for the solution and optimization of engineering system designs (greedy, dynamic programming, branch and bound, graph algorithms, nonlinear optimization), and introduction to complexity analysis. Object-oriented, efficient implementations of algorithms are emphasized.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.204",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
